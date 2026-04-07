@@ -98,7 +98,7 @@ Kris Jenner  ❯ 这就是最典型的问题——我做了40年这件事，
 ## 安装
 
 ```bash
-npx skills add alchaincyf/kris-jenner-skill
+npx skills add eliseso/kris-jenner-skill
 ```
 
 然后在 Claude Code 里：
